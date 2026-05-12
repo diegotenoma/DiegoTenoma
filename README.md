@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello reader, i´m Diego 👋👨🏽‍💻
 
+### Data Analyst | Industrial Engineer ⚙️👷🏽💻
+
+📍Morelia, México  📬e-mail: ing.i.tenorio@gmail.com  🔗LinkedIN: www.linkedin.com/in/tenoriodiego  💼 
 <!--
 **diegotenoma/DiegoTenoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
