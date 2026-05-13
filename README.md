@@ -1,4 +1,4 @@
-# Hello reader, i´m Diego 👋
+# Hello reader, I´m Diego 👋
 
 ### Data Analyst | Industrial Engineer ⚙️💻
 
