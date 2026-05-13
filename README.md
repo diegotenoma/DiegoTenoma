@@ -1,6 +1,6 @@
-# Hello reader, i´m Diego 👋👨🏽‍💻
+# Hello reader, i´m Diego 👋
 
-### Data Analyst | Industrial Engineer ⚙️👷🏽💻
+### Data Analyst | Industrial Engineer ⚙️💻
 
 📍Morelia, México  📬e-mail: ing.i.tenorio@gmail.com  🔗LinkedIN: www.linkedin.com/in/tenoriodiego  💼 
 
@@ -12,10 +12,10 @@ I’m an Industrial Engineer specialized in Quality & Productivity with over 6 y
  ### 🚀Data Analytics Postgraduate Program — TripleTen (2025, ongoing)
  Building hands-on skills in:
 
- 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-learn) 
- 🗃️SQL for data querying and manipulation
- 📊Power BI for visualization and dashboards 
- 🤖Machine Learning applied to real business problems 
+ 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-learn), 
+ 🗃️SQL for data querying and manipulation,
+ 📊Power BI for visualization and dashboards, 
+ 🤖Machine Learning applied to real business problems, 
  📈Translating data into actionable insights
 
  My goal: bridge operational expertise with data analytics to create measurable value for organizations.
