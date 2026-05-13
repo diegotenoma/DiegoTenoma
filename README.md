@@ -2,7 +2,8 @@
 
 ### Data Analyst | Industrial Engineer ⚙️💻
 
-📍Morelia, México  📬e-mail: ing.i.tenorio@gmail.com  🔗LinkedIN: www.linkedin.com/in/tenoriodiego  💼 Portfolio: https://github.com/diegotenoma/PROJECTS-DA 
+📍Morelia, México  📬e-mail: ing.i.tenorio@gmail.com,
+🔗LinkedIN: www.linkedin.com/in/tenoriodiego  💼 Portfolio: https://github.com/diegotenoma/PROJECTS-DA 
 
 ## 🙋🏽‍♂️ About Me 
 I’m an Industrial Engineer specialized in Quality & Productivity with over 6 years of experience in supply chain, operations, and continuous improvement. Throughout my career I’ve led cross-functional teams, optimized logistics processes, and managed inventory at a national scale. I’m currently transitioning into data analytics, blending my operational background with modern data science tools to turn raw data into strategic decisions. I’m particularly drawn to finding patterns that drive efficiency and business growth.
